@@ -1,0 +1,10 @@
+D:\SOLID\SOLID Principle\ClientCode\obj\Debug\ClientCode.csprojResolveAssemblyReference.cache
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\ClientCode.exe.config
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\ClientCode.exe
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\ClientCode.pdb
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\LISCOV.dll
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\LISCOV.pdb
+D:\SOLID\SOLID Principle\ClientCode\obj\Debug\ClientCode.exe
+D:\SOLID\SOLID Principle\ClientCode\obj\Debug\ClientCode.pdb
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\Factory.dll
+D:\SOLID\SOLID Principle\ClientCode\bin\Debug\Factory.pdb

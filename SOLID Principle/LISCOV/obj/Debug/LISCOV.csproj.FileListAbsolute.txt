@@ -1,0 +1,4 @@
+D:\SOLID\SOLID Principle\LISCOV\bin\Debug\LISCOV.dll
+D:\SOLID\SOLID Principle\LISCOV\bin\Debug\LISCOV.pdb
+D:\SOLID\SOLID Principle\LISCOV\obj\Debug\LISCOV.dll
+D:\SOLID\SOLID Principle\LISCOV\obj\Debug\LISCOV.pdb

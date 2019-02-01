@@ -1,0 +1,6 @@
+D:\SOLID\SOLID Principle\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+D:\SOLID\SOLID Principle\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+D:\SOLID\SOLID Principle\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+D:\SOLID\SOLID Principle\CommandDesignPattern\obj\Debug\CommandDesignPattern.csprojResolveAssemblyReference.cache
+D:\SOLID\SOLID Principle\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+D:\SOLID\SOLID Principle\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb

@@ -1,0 +1,5 @@
+D:\SOLID\SOLID Principle\Factory\bin\Debug\Factory.dll
+D:\SOLID\SOLID Principle\Factory\bin\Debug\Factory.pdb
+D:\SOLID\SOLID Principle\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\SOLID\SOLID Principle\Factory\obj\Debug\Factory.dll
+D:\SOLID\SOLID Principle\Factory\obj\Debug\Factory.pdb

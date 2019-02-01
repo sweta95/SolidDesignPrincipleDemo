@@ -1,0 +1,6 @@
+D:\SOLID\SOLID Principle\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\SOLID\SOLID Principle\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\SOLID\SOLID Principle\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\SOLID\SOLID Principle\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\SOLID\SOLID Principle\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\SOLID\SOLID Principle\AdapterPattern\obj\Debug\AdapterPattern.pdb
